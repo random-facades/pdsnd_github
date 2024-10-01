@@ -10,6 +10,8 @@ Version Control Project - Documentation Branch
 Udacity project for the completion of the Introduction to Version Control Course
 Specifically, testing the Branch knowledge and usage
 
+One change has been made to add information to logs
+
 ### Files used
 bikeshare-2.zip as provided by Udacity
 
